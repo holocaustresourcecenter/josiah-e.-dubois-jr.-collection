@@ -27,7 +27,7 @@ description: The DuBois collection houses over 1,000 objects.
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: Holocaust
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Holocaust Resource Center
 
 ##########
 # COLLECTION SETTINGS
@@ -50,11 +50,11 @@ metadata: dubois_metadata
 #
 # Enter name and link for your organization (replacing the name and links below)
 # These values will be used in attribution and data 
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
+organization-name: Holocaust Resource Center
+organization-link: https://www.kean.edu/offices/holocaust-resource-center
 # Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
-organization-logo-banner: https://www.lib.uidaho.edu/collectionbuilder/cdil-black.png
-organization-logo-nav: https://www.lib.uidaho.edu/collectionbuilder/cdil-white.png
+#organization-logo-banner: https://www.lib.uidaho.edu/collectionbuilder/cdil-black.png
+# organization-logo-nav: https://www.lib.uidaho.edu/collectionbuilder/cdil-white.png
 
 ##########
 # ROBOTS EXCLUDE
